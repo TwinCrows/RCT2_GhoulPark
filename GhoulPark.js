@@ -13,6 +13,10 @@ var monthLastReport = 0;
 var reportGhoulAttacks = 0;
 var reportSecurityGhoulTerms = 0;
 
+function parkCasualtyRestore() {
+	if (park.casualtyPenalty > 3) park.casualtyPenalty-=3;
+}
+
 var summaryGhoulAttacks = function() {
 	if (monthLastReport != date.month){
 		var str = ("There were ");
@@ -223,6 +227,8 @@ function securityPacifyGhouls() {
 	}
 }
 
+
+
 function angryExplodeOthers() {
 	
 	
@@ -335,6 +341,7 @@ var main = function()
 	
 	context.subscribe("interval.day", dailyDecayHungerHappiness);
 	context.subscribe("interval.day", summaryGhoulAttacks);
+	context.subscribe("interval.day", parkCasualtyRestore);
 	context.subscribe("guest.generation", setGuestAttributes);
 	
 	
