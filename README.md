@@ -3,6 +3,8 @@ A modded scenario for OpenRCT2, featuring unique, hungry guests.
 
 Scenario Description: Ghouls rise from the crypts! These unique guests get hungry much faster, and when they're starved, they'll explode other guests!
 
+![image](https://user-images.githubusercontent.com/51807239/169670924-9e835151-251d-4ade-b208-fb17b378ded7.png)
+
 **Two-Step Installation:**
 1. Copy 'GhoulPark.js' into your plugins folder "C:\Users\[YourName]\Documents\OpenRCT2\plugin" 
 (This will enable the guests in scenario "Zombie Park" to gain hunger much faster.)
@@ -10,7 +12,7 @@ Scenario Description: Ghouls rise from the crypts! These unique guests get hungr
 
 Your guests will only be ghouls for scenarios with "Ghoul" in the name. You can make a 'Ghoul' version of any scenario by loading a savegame into the scenario editor, and saving it such as "Ghoul Amity Airfield".
 
-![image](https://user-images.githubusercontent.com/51807239/169670924-9e835151-251d-4ade-b208-fb17b378ded7.png)
+
 
 **Rules**
 Your guests are all ghouls!
