@@ -10,6 +10,8 @@ Scenario Description: Ghouls rise from the crypts! These unique guests get hungr
 
 Your guests will only be ghouls for scenarios with "Ghoul" in the name. You can make a 'Ghoul' version of any scenario by loading a savegame into the scenario editor, and saving it such as "Ghoul Amity Airfield".
 
+![image](https://user-images.githubusercontent.com/51807239/169670924-9e835151-251d-4ade-b208-fb17b378ded7.png)
+
 **Rules**
 Your guests are ghouls! Every day, they will become more hungry. When their hunger bar is full, they will gain thirst and lose happiness. When their thirst bar is also full, they will lose happiness even faster and become nauseous. When their hunger, thirst, and unhappiness bars are at maximum, they will become an ANGRY GHOUL!
 
