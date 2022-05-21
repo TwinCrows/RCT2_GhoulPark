@@ -13,7 +13,9 @@ Your guests will only be ghouls for scenarios with "Ghoul" in the name. You can 
 ![image](https://user-images.githubusercontent.com/51807239/169670924-9e835151-251d-4ade-b208-fb17b378ded7.png)
 
 **Rules**
-Your guests are ghouls! Every day, they will become more hungry. When their hunger bar is full, they will gain thirst and lose happiness. When their thirst bar is also full, they will lose happiness even faster and become nauseous. When their hunger, thirst, and unhappiness bars are at maximum, they will become an ANGRY GHOUL!
+Your guests are all ghouls!
+
+Every day, they will become more hungry. When their hunger bar is full, they will gain thirst and lose happiness. When their thirst bar is also full, they will lose happiness even faster and become nauseous. When their hunger, thirst, and unhappiness bars are at maximum, they will become an ANGRY GHOUL!
 
 Angry ghouls have a chance to explode other guests who are on the same tile, or who are on the same ride. (For guests on rides, explosion happens immediately after they exit the ride.) Guests who are exploded cause 'park casualty penalty' to rise, making your park rating go down.
 
