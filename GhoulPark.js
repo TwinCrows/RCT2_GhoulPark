@@ -18,7 +18,7 @@ function parkCasualtyRestore() {
 }
 
 var summaryGhoulAttacks = function() {
-	if (monthLastReport != date.month){
+	if (scenario.name.includes("Ghoul") && monthLastReport != date.month){
 		var str = ("There were ");
 		str = str.concat(reportGhoulAttacks);
 		if (reportGhoulAttacks <= 10) str = str.concat(" ghoul attacks last month.");
